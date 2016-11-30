@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
 s.name             = 'IntelligenceSDK'
-s.version          = '1.0'
+s.version          = '0.1.0'
 s.summary          = 'A short description of Intelligence.'
 
 # This description is used to generate tags and improve search results.
@@ -25,7 +25,7 @@ s.homepage         = 'https://git-apac.internal.tigerspike.com/phoenix/Phoenix-I
 # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
 s.license          = { :type => 'MIT', :file => 'LICENSE' }
 s.author           = { 'Chethan' => 'Chethan.palaksha@tigerspike.com' }
-s.source           = { :git => 'https://git.tigerspike.com/phoenix/Phoenix-Intelligence-iOS-SDK.git', :tag => '1.0' }
+s.source           = { :git => 'https://git.tigerspike.com/phoenix/Phoenix-Intelligence-iOS-SDK.git', :tag => '0.1.0' }
 # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
 s.ios.deployment_target = '8.0'
