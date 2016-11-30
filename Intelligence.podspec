@@ -25,7 +25,7 @@ s.homepage         = 'https://git-apac.internal.tigerspike.com/phoenix/Phoenix-I
 # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
 s.license          = { :type => 'MIT', :file => 'LICENSE' }
 s.author           = { 'Chethan' => 'Chethan.palaksha@tigerspike.com' }
-s.source           = { :git => 'https://git.tigerspike.com/phoenix/Phoenix-Intelligence-iOS-SDK.git', :tag => s.version.to_s }
+s.source           = { :git => 'https://git.tigerspike.com/phoenix/Phoenix-Intelligence-iOS-SDK.git', :tag => '0.1.0' }
 # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
 s.ios.deployment_target = '8.0'
